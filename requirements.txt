@@ -8,11 +8,11 @@ charset-normalizer==2.0.12
 colorama==0.4.4
 debugpy
 decorator==5.1.1
-Django==4.0.3
-djangorestframework==3.13.1
-entrypoints==0.4
-executing==0.8.3
-idna==3.3
+Django
+djangorestframework
+entrypoints
+executing
+idna
 ipykernel==6.12.1
 ipython==8.2.0
 jedi==0.18.1
